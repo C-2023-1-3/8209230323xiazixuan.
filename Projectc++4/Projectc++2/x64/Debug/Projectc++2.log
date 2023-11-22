@@ -1,0 +1,3 @@
+﻿  Projectc++2.cpp
+C:\Users\21718\Desktop\c++shiyan\Projectc++2\Projectc++2\Projectc++2.cpp(7,10): warning C4305: “初始化”: 从“double”到“float”截断
+  Projectc++2.vcxproj -> C:\Users\21718\Desktop\c++shiyan\Projectc++2\x64\Debug\Projectc++2.exe
