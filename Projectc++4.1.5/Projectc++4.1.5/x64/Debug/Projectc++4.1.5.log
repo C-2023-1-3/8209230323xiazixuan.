@@ -1,0 +1,5 @@
+﻿  Projectc++4.1.5.cpp
+D:\Projectc++4.1.5\Projectc++4.1.5\Projectc++4.1.5.cpp(22,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Projectc++4.1.5\Projectc++4.1.5\Projectc++4.1.5.cpp(23,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Projectc++4.1.5\Projectc++4.1.5\Projectc++4.1.5.cpp(51): warning C4715: “indexOf”: 不是所有的控件路径都返回值
+  Projectc++4.1.5.vcxproj -> D:\Projectc++4.1.5\x64\Debug\Projectc++4.1.5.exe

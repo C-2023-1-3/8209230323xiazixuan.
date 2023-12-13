@@ -1,0 +1,4 @@
+﻿  Projectc++4.2.2.2.cpp
+D:\Projectc++4.2.2.2\Projectc++4.2.2.2\Projectc++4.2.2.2.cpp(8,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Projectc++4.2.2.2\Projectc++4.2.2.2\Projectc++4.2.2.2.cpp(22,19): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Projectc++4.2.2.2.vcxproj -> D:\Projectc++4.2.2.2\x64\Debug\Projectc++4.2.2.2.exe
